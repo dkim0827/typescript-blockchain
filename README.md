@@ -1,2 +1,3 @@
-# typescript-blockchain
-Blockchain using Typescript
+# Typechain
+
+Blockchain with Typescript
